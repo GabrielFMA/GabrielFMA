@@ -27,6 +27,6 @@ Sou um desenvolvedor de software de 19 anos, residente em Governador Valadares. 
 <p align="center">
 <div>
 <a href="https://github.com/GabrielFMA">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFMA&layout=compact&langs_count=7&theme=algolia"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFMA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFMA&layout=compact&langs_count=7&theme=ocean_dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFMA&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
 </div>
