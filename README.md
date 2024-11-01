@@ -1,4 +1,4 @@
-# Olá, me chamo Gabriel Figueiredo Moreira Aguilar! 
+# Olá, me chamo Gabriel Moreira! 
 
 ### Bem vindo ao meu perfil GitHub 👋
 
