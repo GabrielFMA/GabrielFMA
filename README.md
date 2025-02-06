@@ -15,8 +15,9 @@ Sou um desenvolvedor de software de 19 anos, residente em Governador Valadares. 
 </code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mobx/mobx-plain.svg" width="40" height="40"/> 
 
 ### Sobre mim:
-- Cursando Engenharia de Software no 4º Semestre
-- Estudando Flutter e Firebase 
+- Cursando Engenharia de Software no 5º Semestre
+- Estudando Javascript e Typescript
+- Conhecimentos em Flutter e Firebase
 
 </br>
 <div align="left">
